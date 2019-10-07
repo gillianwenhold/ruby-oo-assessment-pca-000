@@ -1,6 +1,6 @@
 require_relative "../lib/array_list.rb" # Code your solution in this file
 
-describe Array do 
+describe Array do
   describe "#list" do
     let(:array) { ["eins", "zwei", "drei"] }
 
